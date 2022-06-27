@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_deer2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/deer2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/raw_howl.mp3.flat",
+        "source": "com.example.nightrun.app-main-17:/raw/howl.mp3"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_staticbackground2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/staticbackground2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_tophatrabbit2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/tophatrabbit2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_rabbitsmallflame2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/rabbitsmallflame2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_title.PNG.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/title.PNG"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_emptyheart4.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/emptyheart4.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_howling_wolf.PNG.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/howling_wolf.PNG"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_rocketwolf2.PNG.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/rocketwolf2.PNG"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_mainbackground4.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/mainbackground4.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_rocketwolf3.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/rocketwolf3.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_wolfsmallflame2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/wolfsmallflame2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_emptyheart2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/emptyheart2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_mainbackground1.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/mainbackground1.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_buck2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/buck2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/layout_activity_main.xml.flat",
+        "source": "com.example.nightrun.app-main-17:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_tophatrabbit.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/tophatrabbit.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_background.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_rabbit1.PNG.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/rabbit1.PNG"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_staticbackgroundwithtrees.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/staticbackgroundwithtrees.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_redheart.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/redheart.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_tophatrabbitsmallflame2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/tophatrabbitsmallflame2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_staticbackgroundwithtrees2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/staticbackgroundwithtrees2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_title2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/title2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_mainbackground5.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/mainbackground5.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_redwolf1.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/redwolf1.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_buck1.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/buck1.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.nightrun.app-main-17:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_mainbackground2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/mainbackground2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_pixelheart3.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/pixelheart3.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_splash_screen_full_moon.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/splash_screen_full_moon.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_buck3.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/buck3.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/layout_activity_game_over.xml.flat",
+        "source": "com.example.nightrun.app-main-17:/layout/activity_game_over.xml"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_emptyheart.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/emptyheart.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/raw_munch.mp3.flat",
+        "source": "com.example.nightrun.app-main-17:/raw/munch.mp3"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_rocketwolf4.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/rocketwolf4.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nightrun.app-pngs-10:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_mainbackground3.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/mainbackground3.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nightrun.app-main-17:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_rabbit2.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/rabbit2.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/drawable_staticbackground3.png.flat",
+        "source": "com.example.nightrun.app-main-17:/drawable/staticbackground3.png"
+    },
+    {
+        "merged": "com.example.nightrun.app-merged_res-15:/raw_gameover1.mp3.flat",
+        "source": "com.example.nightrun.app-main-17:/raw/gameover1.mp3"
+    }
+]
