@@ -1,0 +1,4 @@
+#Sun Jun 26 21:08:52 PDT 2022
+base.0=C\:\\Users\\Laura\\Desktop\\Classes\\Old classes\\CS458\\NightRun\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
